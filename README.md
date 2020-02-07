@@ -1,6 +1,8 @@
 # Data-Visualization_Studies
 Where my passion for graphic design meets my passion for data science
 
+My [Tableau profile](https://public.tableau.com/profile/calvin.tomaschko#!/)
+
 ### The Complete Tableau Bootcamp for Data Visualization, 30% as of 02-1-2020
 
 Udemy course found [here](https://www.udemy.com/course/complete-tableau-bootcamp-dashboards/)
